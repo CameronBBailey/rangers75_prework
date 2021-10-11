@@ -58,3 +58,6 @@ def is_consecutive2(a_list):
             status = False
             break
     print(status)
+
+    is_consecutive2([2,3,4,5])
+    is_consecutive2([1,4,3,7])
